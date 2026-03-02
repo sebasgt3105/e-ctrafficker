@@ -4,7 +4,7 @@ Plataforma SaaS de Meta Ads con IA - Auditor, Estratega y Creador de Campañas.
 
 ## 🌐 Links
 
-- **Demo:** https://morrison-maternity-scope-warehouse.trycloudflare.com
+- **Demo:** https://praise-executed-toilet-agricultural.trycloudflare.com
 - **GitHub:** https://github.com/sebasgt3105/e-ctrafficker
 
 ## 📋 Funcionalidades
